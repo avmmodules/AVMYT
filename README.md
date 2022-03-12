@@ -52,7 +52,7 @@
 
 [![miniatura][miniatura]](https://pypi.org/project/AVMYT/)
 
-If you want to watch the explanation in video, see the [link](https://www.youtube.com/avmmodules)
+If you want to watch the explanation in video, see the [link](https://youtu.be/ChynCNZ1IoQ)
 
 <!-- GETTING STARTED -->
 ## Getting Started
